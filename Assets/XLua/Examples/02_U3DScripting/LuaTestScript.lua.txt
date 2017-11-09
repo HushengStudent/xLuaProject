@@ -6,6 +6,10 @@
 
 local speed = 10
 
+function awake()
+	print("lua awake...")
+end
+
 function start()
 	print("lua start...")
 end
