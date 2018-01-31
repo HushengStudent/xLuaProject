@@ -12,9 +12,9 @@ using XLua;
 public class Helloworld : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
-        LuaEnv luaenv = new LuaEnv();  //对比tolua里面的LuaState;
-        luaenv.DoString("CS.UnityEngine.Debug.Log('hello world')"); //Dostring;
-        luaenv.Dispose();              //回收;
+        LuaEnv luaenv = new LuaEnv();
+        luaenv.DoString("CS.UnityEngine.Debug.Log('hello world')");
+        luaenv.Dispose();
 	}
 	
 	// Update is called once per frame
