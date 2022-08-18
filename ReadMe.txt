@@ -1,6 +1,6 @@
 # xLuaProject
 My unity gameframework integration xLua.
 
-software：Unity5.5.4/visual studio2013.
+software：2020.2.7f1/visual studio2013.
 --------------------------------------------------------------
 
