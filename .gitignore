@@ -1,3 +1,9 @@
 /Library
 /Logs
 /Temp
+/Assembly-CSharp.csproj
+/Assembly-CSharp-Editor.csproj
+/.vsconfig
+/xLuaProject.sln
+/.vs
+/obj
